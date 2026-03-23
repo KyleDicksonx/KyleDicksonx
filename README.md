@@ -2,7 +2,7 @@
 - 👀 I’m interested in 3d printing, minecraft modding, vieo games, 
 - 🌱 I’m currently learning: java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me KyleDicksonx@gmail.com
+- 📫 How to reach me KyleO.Dickson@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
