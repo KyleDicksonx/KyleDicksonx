@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KyleDicksonx
-- 👀 I’m interested in 3d printing, minecraft modding, vieo games, 
-- 🌱 I’m currently learning: java
+- 👋 Hi, I’m Kyle Dickson
+- 👀 I’m interested in 3d printing, Minecraft modding, video games,
+- 🌱 I’m currently learning: Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me KyleO.Dickson@gmail.com
 - 😄 Pronouns: He/Him
